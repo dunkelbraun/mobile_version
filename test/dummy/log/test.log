@@ -1,0 +1,390 @@
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 48ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 48ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 0ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 37771ms
+  Processing by HomeController#action_one as HTML
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 54ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 10ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 24693ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.4ms)
+Completed 200 OK in 1949ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 7689ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 29125ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 17095ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.4ms)
+Completed 200 OK in 9002ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.3ms)
+Completed 200 OK in 1454ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.1ms)
+Completed 200 OK in 47ms (Views: 46.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (0.9ms)
+Completed 200 OK in 45ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.0ms)
+Completed 200 OK in 46ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Rendered home/action_two.html.erb (1.0ms)
+Completed 200 OK in 47ms (Views: 46.7ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Rendered home/action_two.html.erb (1.0ms)
+Completed 200 OK in 45ms (Views: 44.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 46ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.0ms)
+Completed 200 OK in 45ms (Views: 44.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.0ms)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.0ms)
+Completed 200 OK in 44ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (0.9ms)
+Completed 200 OK in 45ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (0.9ms)
+Completed 200 OK in 45ms (Views: 44.2ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (1.2ms)
+Completed 200 OK in 46ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as HTML
+Rendered home/action_two.html.erb (0.9ms)
+Completed 200 OK in 46ms (Views: 45.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 54ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 48ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 48ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 96ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 3ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 27ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 3ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 46ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 3ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 43ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 42ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 43ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 43ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 43ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 11ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 2ms
+  Processing by HomeController#action_one as HTML
+Completed 500 Internal Server Error in 1ms
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 52ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 16ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 31ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 10ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 54ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 61ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 3ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 31ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 44ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 3ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 46ms
+  Processing by HomeController#action_two as HTML
+Completed 500 Internal Server Error in 5ms
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 43ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 45ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_two as JSON
+Completed 500 Internal Server Error in 46ms
+  Processing by HomeController#action_two as HTML
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  Processing by HomeController#action_one as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)

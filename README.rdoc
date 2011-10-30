@@ -1,0 +1,33 @@
+= Mobile Version -- Zero-configuration alternate layout rendering for mobile devices in Rails
+
+With Mobile Version you can have an alternate layout in your rails application for 
+mobile browsers with zero-configuration.
+
+== Download and installation
+
+The latest version of Mobile Version can be installed with Rubygems:
+  % [sudo] gem install mobile_version
+
+Include the gem in your Gemfile:
+  gem 'mobile_version'
+  
+Source code can be downloaded from Github:
+
+  * http://github.com/dunkelbraun/mobile_version
+
+== Usage
+
+Whenever you want to render an alternate view for mobile browsers, create a template with the extension "mobilehtml".
+
+For example: the mobile version template of the index action is
+  index.mobilehtml.erb
+
+Rails will render the mobile view for all the incoming mobile browser HTML requests and 
+it will fallback to the default HTML view if it does not find the a mobile version for the 
+requested action.
+
+
+== License
+
+Mobile Version is released under the MIT license.
+
