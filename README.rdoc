@@ -1,4 +1,4 @@
-= Mobile Version -- Zero-configuration alternate layout rendering for mobile devices in Rails
+= Mobile Version -- Render mobile browser versions of your views in Rails with zero-configuration.
 
 With Mobile Version you can have an alternate layout in your rails application for 
 mobile browsers with zero-configuration.
