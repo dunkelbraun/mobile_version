@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.version     = MobileVersion::VERSION
   s.authors     = ["Marc Essindi"]
   s.email       = ["marc.essindi@dunkelbraun.com"]
-  s.homepage    = ""
-  s.summary     = "Test"
+  s.homepage    = "https://github.com/dunkelbraun/Mobile-Version"
+  s.summary     = "Render mobile browser versions of your views in Rails with zero-configuration."
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
