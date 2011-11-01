@@ -1,7 +1,7 @@
-= Mobile Version -- Render mobile browser versions of your views in Rails with zero-configuration.
+= Mobile Version
+= Render your alternate mobile browser versions of your views in Rails with zero-configuration.
 
-With Mobile Version you can have an alternate layout in your rails application for 
-mobile browsers with zero-configuration.
+With Mobile Version your alternate layout for mobile browsers will be rendered in Rails with zero-configuration.
 
 == Download and installation
 
@@ -17,14 +17,17 @@ Source code can be downloaded from Github:
 
 == Usage
 
-Whenever you want to render an alternate view for mobile browsers, create a template with the extension "mobilehtml".
+Whenever you want to render an alternate view for mobile browsers, create a template with the extension .mobilehtml.
 
-For example: the mobile version template of the index action is
+For example: the mobile version template for the index action is
   index.mobilehtml.erb
+
+Mobile browser specific Layouts also need have the extension .mobilehtml
 
 Rails will render the mobile view for all the incoming mobile browser HTML requests and 
 it will fallback to the default HTML view if it does not find a mobile version for the 
 requested action.
+
 
 
 == License
